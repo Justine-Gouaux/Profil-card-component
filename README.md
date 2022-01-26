@@ -31,4 +31,4 @@ This is a solution to the [Profile card component challenge on Frontend Mentor](
 - CSS custom properties
 - Flexbox
 - Mobile-first workflow
-- [Meyer Resset Tool](https://meyerweb.com/eric/tools/css/reset/)
+- [Meyer Reset Tool](https://meyerweb.com/eric/tools/css/reset/)
